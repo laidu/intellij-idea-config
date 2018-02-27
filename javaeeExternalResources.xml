@@ -1,0 +1,8 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://maven.apache.org/DECORATION/1.3.0" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/3aece132_decoration-1.3.0.xsd" />
+    <resource url="http://maven.apache.org/DECORATION/1.6.0" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/d99f92f5_decoration-1.6.0.xsd" />
+    <resource url="http://maven.apache.org/xsd/decoration-1.3.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/3aece132_decoration-1.3.0.xsd" />
+    <resource url="http://maven.apache.org/xsd/decoration-1.6.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/d99f92f5_decoration-1.6.0.xsd" />
+  </component>
+</application>
