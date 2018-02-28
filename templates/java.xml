@@ -1,7 +1,7 @@
 <templateSet group="java">
   <template name="info" value="log.info(&quot;$VAR_NAME_COPY$'s value : {}&quot;, $VAR_NAME$);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR_NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="VAR_NAME_COPY" expression="" defaultValue="$VAR_NAME$" alwaysStopAt="false" />
+    <variable name="VAR_NAME_COPY" expression="" defaultValue="$VAR_NAME" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
