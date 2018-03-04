@@ -27,6 +27,14 @@
       <language id="Team Foundation" NEW_FILE="true" ENABLE="true" />
       <language id="Up" NEW_FILE="true" ENABLE="false" />
     </languages>
-    <userTemplates />
+    <userTemplates>
+      <template name="Example user template">### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen</template>
+    </userTemplates>
   </component>
 </application>

@@ -12,8 +12,9 @@
 #if ($data) import lombok.AllArgsConstructor;import lombok.Builder;import lombok.Data;import lombok.NoArgsConstructor;#end
 /**
  * ${Description}
- * 
- * Created by tiancai.zang on ${YEAR}-${MONTH}-${DAY} ${HOUR}:${MINUTE}.
+ *
+ * Created by tiancai.zang 
+ * on ${YEAR}-${MONTH}-${DAY} ${HOUR}:${MINUTE}.
  */
 #if ($slf4j || !$data) @Slf4j #end
 #if ($controller) @RestController@RequestMapping("/") #end

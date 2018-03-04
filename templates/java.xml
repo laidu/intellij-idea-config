@@ -1,28 +1,28 @@
 <templateSet group="java">
-  <template name="info" value="log.error(&quot;$VARIABLE_NAME$'s value : {}&quot;,$VARIABLE$)" description="log.info" toReformat="false" toShortenFQNames="true" useStaticImport="true">
-    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="VARIABLE_NAME" expression="" defaultValue="$VARIABLE$" alwaysStopAt="true" />
+  <template name="info" value="log.info(&quot;$VAR_NAME_COPY$'s value : {}&quot;, $VAR_NAME$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_NAME_COPY" expression="" defaultValue="$VAR_NAME" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="debug" value="log.debug(&quot;$VARIABLE_NAME$'s value : {}&quot;,$VARIABLE$)" description="log.debug" toReformat="false" toShortenFQNames="true" useStaticImport="true">
-    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="VARIABLE_NAME" expression="" defaultValue="$VARIABLE$" alwaysStopAt="true" />
+  <template name="debug" value="log.debug(&quot;$VAR_NAME_COPY$'s value : {}&quot;, $VAR_NAME$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_NAME_COPY" expression="" defaultValue="$VAR_NAME$" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="error" value="log.error(&quot;$VARIABLE_NAME$'s value : {}&quot;,$VARIABLE$)" description="log.error" toReformat="false" toShortenFQNames="true" useStaticImport="true">
-    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="VARIABLE_NAME" expression="" defaultValue="$VARIABLE$" alwaysStopAt="true" />
+  <template name="error" value="log.error(&quot;$VAR_NAME_COPY$'s value : {}&quot;, $VAR_NAME$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_NAME_COPY" expression="" defaultValue="$VAR_NAME$" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="step" value="/**&#10; * step $index$ : $description$&#10; */" description="step" toReformat="false" toShortenFQNames="true">
-    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="step" value="/**&#10; * step $NUMBER$ : $DESCRIPTION$&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NUMBER" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
