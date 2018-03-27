@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="makefile" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
