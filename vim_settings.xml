@@ -2,14 +2,38 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/Class.txt.ft" timestamp="1523201783974">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Activity.txt.ft" timestamp="1523201755694">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/AnnotationType.txt.ft" timestamp="1523201784979">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/package-info.txt.ft" timestamp="1523201785526">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1523201806011">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Interface.txt.ft" timestamp="1523201784610">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
