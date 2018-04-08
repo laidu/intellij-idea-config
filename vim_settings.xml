@@ -3,22 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Class.txt.ft" timestamp="1523201783974">
+      <file name="/Dummy.txt" timestamp="1523202084386">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Enum.txt.ft" timestamp="1523202057957">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1523202197193">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/module-info.txt.ft" timestamp="1523202006906">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Activity.txt.ft" timestamp="1523201755694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/AnnotationType.txt.ft" timestamp="1523201784979">
+      <file name="/AnnotationType.txt.ft" timestamp="1523202059253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/package-info.txt.ft" timestamp="1523201785526">
+      <file name="/package-info.txt.ft" timestamp="1523202059844">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1523201806011">
+      <file name="/CSS File.txt.ft" timestamp="1523202060263">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Interface.txt.ft" timestamp="1523201784610">
+      <file name="/HTML File.txt.ft" timestamp="1523202196035">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Interface.txt.ft" timestamp="1523202197747">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -34,6 +46,13 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
