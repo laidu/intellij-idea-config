@@ -1,0 +1,38 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Class.txt.ft" timestamp="1523154566584">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/module-info.txt.ft" timestamp="1523154568789">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/java-learn/dev-ops/src/main/resources/docker/image/java/Dockerfile" timestamp="1523154408129" />
+      <file name="/AnnotationType.txt.ft" timestamp="1523154567649">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/package-info.txt.ft" timestamp="1523154568390">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1523154695753">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Interface.txt.ft" timestamp="1523154567211">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
