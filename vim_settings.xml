@@ -9,14 +9,13 @@
       <file name="/module-info.txt.ft" timestamp="1523154568789">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/java-learn/dev-ops/src/main/resources/docker/image/java/Dockerfile" timestamp="1523154408129" />
       <file name="/AnnotationType.txt.ft" timestamp="1523154567649">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/package-info.txt.ft" timestamp="1523154568390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1523154695753">
+      <file name="/HTML File.txt.ft" timestamp="1523155795834">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Interface.txt.ft" timestamp="1523154567211">
@@ -29,7 +28,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
