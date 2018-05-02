@@ -1,5 +1,6 @@
 <application>
   <component name="SmartIMSettings">
+    <option name="SHOW_SEND" value="true" />
     <option name="NOTIFY_GROUP_MSG" value="true" />
     <option name="ROBOT_TYPE" value="-1" />
   </component>
