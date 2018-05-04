@@ -4,6 +4,7 @@
       <list>
         <CodeTemplate>
           <option name="name" value="Getter and Setter" />
+          <option name="type" value="class" />
           <option name="enabled" value="false" />
           <option name="template" value="#foreach($field in $fields)&#10;#set($name = $StringUtil.capitalizeWithJavaBeanConvention($StringUtil.sanitizeJavaIdentifier($helper.getPropertyName($field.element, $project))))&#10;#if ($field.boolean &amp;&amp; $field.primitive)&#10;#set($getter = &quot;is${name}&quot;)&#10;#else&#10;#set($getter = &quot;get${name}&quot;)&#10;#end&#10;#set($setter = &quot;set${name}&quot;)&#10;#if($field.modifierStatic)&#10;static ##&#10;#end&#10;$field.type ##&#10;${getter}() {&#10;return $field.name;&#10;}&#10;&#10;#if($field.modifierStatic)&#10;static ##&#10;#end&#10;void ${setter}($field.type $paramName) {&#10;#if ($field.name == $paramName)&#10;    #if (!$field.modifierStatic)&#10;    this.##&#10;    #else&#10;        $classname.##&#10;    #end&#10;#end&#10;$field.name = $paramName;&#10;}&#10;#end" />
           <option name="pipeline">
