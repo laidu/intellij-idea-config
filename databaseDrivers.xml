@@ -5,8 +5,11 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="h2.unified">
-      <artifact name="H2" use="true" />
+      <artifact name="H2" use="true" version="1.4.196" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="azure.ms">
       <artifact name="SQL Server" use="true" />
