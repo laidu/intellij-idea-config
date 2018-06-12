@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" vmOptions="" />
+  <component name="MavenVersion" vmOptions="" mavenHome="/opt/maven" />
 </application>
