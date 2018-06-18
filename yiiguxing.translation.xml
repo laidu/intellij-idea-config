@@ -14,7 +14,6 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
     <option name="primaryFontFamily" value="FreeMono" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="22a4dfd60e993f94" />
