@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl 9" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+</keymap>
