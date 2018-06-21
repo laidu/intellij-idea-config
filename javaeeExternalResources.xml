@@ -1,8 +1,0 @@
-<application>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://maven.apache.org/DOCUMENT/1.0.1" location="$USER_HOME$/.IntelliJIdea2018.1/system/extResources/95e0749b_document-1.0.1.xsd" />
-    <resource url="http://maven.apache.org/xsd/decoration-1.8.0.xsd" location="$USER_HOME$/.IntelliJIdea2018.1/system/extResources/436c0977_decoration-1.8.0.xsd" />
-    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/.IntelliJIdea2018.1/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
-    <resource url="http://www.w3.org/1999/XSL/Format" location="$USER_HOME$/.IntelliJIdea2018.1/system/extResources/741852a8_Format.xml" />
-  </component>
-</application>
