@@ -13,11 +13,9 @@
 /**
  * ${Description}
  *
- * Created by ${USER} 
+ * Created by tiancai.zang 
  * on ${YEAR}-${MONTH}-${DAY} ${HOUR}:${MINUTE}.
- * @author ${USER}
  */
-// TODO: ${YEAR}-${MONTH}-${DAY} ${HOUR}:${MINUTE}  ${Description}
 #if ($slf4j || !$data) @Slf4j #end
 #if ($controller) @RestController@RequestMapping("/") #end
 #if ($service) @Service #end

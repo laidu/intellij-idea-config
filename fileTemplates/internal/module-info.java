@@ -1,9 +1,8 @@
 /**
  * ${Description}
  *
- * Created by ${USER} 
+ * Created by tiancai.zang 
  * on ${YEAR}-${MONTH}-${DAY} ${HOUR}:${MINUTE}.
- * @author ${USER}
  */
 module #[[$MODULE_NAME$]]# {
 }

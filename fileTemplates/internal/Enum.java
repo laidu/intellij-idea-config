@@ -2,10 +2,8 @@
 /**
  * ${Description}
  *
- * Created by ${USER} 
+ * Created by tiancai.zang 
  * on ${YEAR}-${MONTH}-${DAY} ${HOUR}:${MINUTE}.
- * @author ${USER}
  */
-// TODO: ${YEAR}-${MONTH}-${DAY} ${HOUR}:${MINUTE}  ${Description}
 public enum ${NAME} {
 }

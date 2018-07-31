@@ -2,11 +2,10 @@
 /**
  * ${Description}
  *
- * Created by ${USER} 
+ * Created by tiancai.zang 
  * on ${YEAR}-${MONTH}-${DAY} ${HOUR}:${MINUTE}.
- * @author ${USER}
  */
-public enum ${NAME}{
+public class ${NAME}{
     private static ${NAME} ourInstance = new ${NAME}();
 
     public static ${NAME} getInstance() {

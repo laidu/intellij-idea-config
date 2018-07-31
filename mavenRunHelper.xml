@@ -34,9 +34,6 @@
             <Goal>
               <option name="commandLine" value="clean install" />
             </Goal>
-            <Goal>
-              <option name="commandLine" value="clean deploy -P oss" />
-            </Goal>
           </list>
         </option>
       </Goals>
