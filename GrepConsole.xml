@@ -3,7 +3,7 @@
     <option name="donationNagger">
       <DonationNagger>
         <option name="actionsExecuted" value="1" />
-        <option name="firstUsage" value="1541241952895" />
+        <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.5.162.000.1" />
       </DonationNagger>
     </option>
