@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="external" />
       <item value="Cglib Proxy Demo" />
       <item value="emo {" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
@@ -11,13 +17,13 @@
         <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
+    <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
     <option name="primaryFontFamily" value="FreeMono" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="22a4dfd60e993f94" />
-        <option name="appKeyConfigured" value="true" />
       </youdao-translate>
     </option>
   </component>
